@@ -1,0 +1,11 @@
+
+
+Creating ticket booking app project:
+
+1. creating home page
+
+2. creating signup\ login page
+
+3. creating search page
+
+4. creating logout page  
