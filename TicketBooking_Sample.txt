@@ -10,4 +10,6 @@ Creating ticket booking app project:
 
 4. Added profile page
 
-5. creating logout page  
+5. Added payment page
+
+6. creating logout page  
