@@ -8,4 +8,6 @@ Creating ticket booking app project:
 
 3. creating search page
 
-4. creating logout page  
+4. Added profile page
+
+5. creating logout page  
