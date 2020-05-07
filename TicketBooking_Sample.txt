@@ -18,4 +18,4 @@ Creating ticket booking app project:
 
 8. Added Bus images
 
-9. Added Booking transaction history page.
+9. Added Booking transaction history page
